@@ -1,1 +1,1 @@
-# pil-buddy
+# PillBuddy Prescription OCR

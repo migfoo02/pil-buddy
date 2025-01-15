@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+PIL
+easyocr
+cv2
+numpy
+uvicorn
+fastapi
